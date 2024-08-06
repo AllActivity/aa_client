@@ -2,7 +2,7 @@
 
 Web : https://aa-server-v2.vercel.app
 
-Client App Donwlaod : 
+Client App Donwlaod : https://github.com/AllActivity/aa_client/releases
 
 Default Password To all users : **Aaa111!**
 
