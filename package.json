@@ -1,0 +1,9 @@
+{
+  "name": "aa_client",
+  "version": "1.0.0",
+  "description": "AllActivity Desktop App Client",
+  "scripts": {
+    "release": "node scripts/release.js"
+  },
+  "private": true
+}
